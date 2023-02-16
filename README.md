@@ -23,6 +23,7 @@ If you have any problems, suggestions or improvements, please submit the issue.
 - <a name="MAGIC"></a>**[MAGIC]** MAGIC: Manifold and graph integrative convolutional network for low-dose CT reconstruction (**TMI**) [[paper](https://arxiv.org/ftp/arxiv/papers/2008/2008.00406.pdf)]
 - <a name="CasRedSCAN"></a>**[CasRedSCAN]** Limited View Tomographic Reconstruction Using a Cascaded Residual Dense Spatial-Channel Attention Network With Projection Data Fidelity Layer (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9380210/)]
 - <a name="Tensor-Net"></a>**[Tensor-Net]** Learning to Reconstruct CT Images From the VVBP-Tensor (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9458267)]
+- <a name="Un-SinoNet"></a>**[Un-SinoNet]** Noise-Generating-Mechanism-Driven Unsupervised Learning for Low-Dose CT Sinogram Recovery (**TRPMS**) [[paper](https://ieeexplore.ieee.org/abstract/document/9439919/)]
 
 
 
