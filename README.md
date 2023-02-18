@@ -15,6 +15,9 @@ If you have any problems, suggestions or improvements, please submit the issue.
 - <a name="PLANet"></a>**[PLANet]** Learning Projection Views for Sparse-View CT Reconstruction (**ACM MM**) [[paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548204)]
 - <a name="GMM-unNet"></a>**[GMM-unNet]** Noise Characteristics Modeled Unsupervised Network for Robust CT Image Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9852485)]
 - <a name="DREAM-Net"></a>**[DREAM-Net]** DREAM-Net: Deep Residual Error Iterative Minimization Network for Sparse-View CT Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9966660)]
+- <a name="ACID-B"></a>**[ACID-B]** Stabilizing deep tomographic reconstruction: Part B. Convergence analysis and adversarial attacks (**Patterns**) [[paper](https://www.sciencedirect.com/science/article/pii/S2666389922000551)]
+- <a name="ACID-A"></a>**[ACID-A]** Stabilizing deep tomographic reconstruction: Part A. Hybrid framework and experimental results (**Patterns**) [[paper](https://www.sciencedirect.com/science/article/pii/S266638992200054X?ref=pdf_download&fr=RR-2&rr=79b5fa97d8a6096f)]
+
 
 ### 2021
 - <a name="DRONE"></a>**[DRONE]** Computed Tomography Reconstruction Using Deep Image Prior and Learned Reconstruction Methods (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9424618/)] [[Code](https://github.com/weiwenwu12/DRONE)]
