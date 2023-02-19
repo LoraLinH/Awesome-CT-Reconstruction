@@ -19,7 +19,7 @@ If you have any problems, suggestions or improvements, please submit the issue.
 - <a name="DREAM-Net"></a>**[DREAM-Net]** DREAM-Net: Deep Residual Error Iterative Minimization Network for Sparse-View CT Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9966660)]
 - <a name="ACID-B"></a>**[ACID-B]** Stabilizing deep tomographic reconstruction: Part B. Convergence analysis and adversarial attacks (**Patterns**) [[paper](https://www.sciencedirect.com/science/article/pii/S2666389922000551)]
 - <a name="ACID-A"></a>**[ACID-A]** Stabilizing deep tomographic reconstruction: Part A. Hybrid framework and experimental results (**Patterns**) [[paper](https://www.sciencedirect.com/science/article/pii/S266638992200054X?ref=pdf_download&fr=RR-2&rr=79b5fa97d8a6096f)]
-- <a name="EASEL"></a>**[EASEL]** Iterative Reconstruction for Low-Dose CT using Deep Gradient Priors of Generative Model (**TRPMS**) [[paper](https://ieeexplore.ieee.org/abstract/document/9703672)]
+- <a name="EASEL"></a>**[EASEL]** Iterative Reconstruction for Low-Dose CT using Deep Gradient Priors of Generative Model (**TRPMS**) [[paper](https://ieeexplore.ieee.org/abstract/document/9703672)] [[Code](https://github.com/yqx7150/EASEL)]
 
 
 ### 2021
