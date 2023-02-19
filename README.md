@@ -45,6 +45,8 @@ If you have any problems, suggestions or improvements, please submit the issue.
 
 ### 2020
 - <a name="iRadonMAP"></a>**[iRadonMAP]** Radon Inversion via Deep Learning (**TMI**) [[paper](https://arxiv.org/pdf/1808.03015.pdf)]
+- <a name="LRTP"></a>**[LRTP]** Spectral CT reconstruction via low-rank representation and region-specific texture preserving Markov random field regularization (**TMI**) [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7529661/pdf/nihms-1569703.pdf)]
+- <a name="FSTensor"></a>**[FSTensor]** FSTensorFull-spectrum-knowledge-aware tensor model for energy-resolved CT iterative reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9016096)]
 - <a name="MetaInv-Net"></a>**[MetaInv-Net]** MetaInv-Net: Meta Inversion Network for Sparse View CT Image Reconstruction (**TMI**) [[paper](https://arxiv.org/pdf/2006.00171.pdf)] [[Code](https://github.com/haimiaozh/MetaInv-Net)]
 - <a name="Momentum-Net"></a>**[Momentum-Net]** Momentum-Net: Fast and convergent iterative neural network for inverse problems (**TPAMI**) [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8011286/)]
 - <a name="ETEDN"></a>**[ETEDN]** An End-to-End Deep Network for Reconstructing CT Images Directly From Sparse Sinograms (**TCI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9264709)] [[Code](https://github.com/wangwei-cmd/CT-image-reconstruction)]
@@ -57,17 +59,21 @@ If you have any problems, suggestions or improvements, please submit the issue.
 ### 2019
 
 - <a name="SISVM"></a>**[SISVM]** Learning to Reconstruct Computed Tomography Images Directly From Sinogram Data Under A Variety of Data Acquisition Conditions (**TMI**) [[paper](https://ieeexplore.ieee.org/ielaam/42/8854342/8688568-aam.pdf)]
+- <a name="SPULTRA"></a>**[SPULTRA]** SPULTRA: Low-Dose CT Image Reconstruction with Joint Statistical and Learned Image Models (**TMI**) [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7170173/pdf/nihms-1573372.pdf)]
 - <a name="iCTNet"></a>**[iCTNet]** Sinogram interpolation for sparse-view micro-CT with deep learning neural network (**Biomedical Signal Processing and Control**) [[paper](https://arxiv.org/ftp/arxiv/papers/1902/1902.03362.pdf)] [[Code](https://github.com/Swapneel7/Sparse-CT-Reconstruction-using-Deep-learning)]
 
 ### 2018
 - <a name="LEARN"></a>**[LEARN]** LEARN: Learned Experts’ Assessment-Based Reconstruction Network for Sparse-Data CT (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8290981)]
 - <a name="LPD"></a>**[LPD]** Learned Primal-Dual Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8271999/)]
 - <a name="CNNRPGD"></a>**[CNNRPGD]** CNN-Based Projected Gradient Descent for Consistent CT Image Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8353870)]
+- <a name="RAD"></a>**[RAD]** Regularization analysis and design for prior-image-based X-ray CT reconstruction (**TMI**) [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6295916/)]
+- <a name="3pADMM"></a>**[3pADMM]** Optimizing a parameterized plug-and-play ADMM for iterative low-dose CT reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8434327/)]
 - <a name="DLMI"></a>**[DLMI]** Low Dose CT Image Denoising Using a Generative Adversarial Network with Wasserstein Distance and Perceptual Loss (**TMI**) [[paper](https://arxiv.org/pdf/1708.00961.pdf)] [[Code](https://github.com/Ryosaeba8/Medical-Imaging-LOW-DOSE-CT-DENOISING)]
 - <a name="DD_Net"></a>**[DD_Net]** A Sparse-View CT Reconstruction Method Based on Combination of DenseNet and Deconvolution (**TMI**) [[paper](https://ieeexplore.ieee.org/document/8331861/)] [[Code](https://github.com/zzc623/DD_Net)]
 - <a name="DBSS"></a>**[DBSS]** Deep-neural-network-based sinogram synthesis for sparse-view CT image reconstruction (**TMI**) [[paper](https://arxiv.org/ftp/arxiv/papers/1803/1803.00694.pdf)]
 - <a name="DLCT"></a>**[DLCT]** Deep Learning Computed Tomography: Learning Projection-Domain Weights From Image Domain in Limited Angle Problems (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8355700)]
 - <a name="AUTOMAP"></a>**[AUTOMAP]** Image reconstruction by domain-transform manifold learning (**Nature**) [[paper](https://www.nature.com/articles/nature25988)]
+
 
 
 ### 2017
