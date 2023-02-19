@@ -44,6 +44,7 @@ If you have any problems, suggestions or improvements, please submit the issue.
 ### 2018
 - <a name="LEARN"></a>**[LEARN]** LEARN: Learned Experts’ Assessment-Based Reconstruction Network for Sparse-Data CT (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8290981)]
 - <a name="LPD"></a>**[LPD]** Learned Primal-Dual Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8271999/)]
+- <a name="DLMI"></a>**[DLMI]** Low Dose CT Image Denoising Using a Generative Adversarial Network with Wasserstein Distance and Perceptual Loss (**TMI**) [[paper](https://arxiv.org/pdf/1708.00961.pdf)] [[Code](https://github.com/Ryosaeba8/Medical-Imaging-LOW-DOSE-CT-DENOISING)]
 
 
 ### 2017
