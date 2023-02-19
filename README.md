@@ -5,7 +5,9 @@ If you have any problems, suggestions or improvements, please submit the issue.
 ## Papers
 
 ### arXiv papers
+
 - Synergizing Physics/Model-based and Data-driven Methods for Low-Dose CT [[paper](https://arxiv.org/pdf/2203.15725.pdf)]
+- Learned convex regularizers for inverse problems [[paper](https://arxiv.org/pdf/2008.02839.pdf)]
 
 ### 2023
 
