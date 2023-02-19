@@ -31,6 +31,7 @@ If you have any problems, suggestions or improvements, please submit the issue.
 - <a name="Tensor-Net"></a>**[Tensor-Net]** Learning to Reconstruct CT Images From the VVBP-Tensor (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9458267)]
 - <a name="FISTA-Net"></a>**[FISTA-Net]** FISTA-Net: Learning a Fast Iterative Shrinkage Thresholding Network for Inverse Problems in Imaging (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9335299)]
 - <a name="SinoNet"></a>**[SinoNet]** Noise-Generating-Mechanism-Driven Unsupervised Learning for Low-Dose CT Sinogram Recovery (**TRPMS**) [[paper](https://ieeexplore.ieee.org/abstract/document/9439919/)]
+- <a name="N2S"></a>**[N2S]** Self-Supervised Training For Low-Dose Ct Reconstruction (**ISBI**) [[paper](https://arxiv.org/pdf/2010.13232.pdf)] [[Code](https://github.com/mozanunal/SparseCT)]
 
 
 
@@ -39,6 +40,7 @@ If you have any problems, suggestions or improvements, please submit the issue.
 - <a name="iRadonMAP"></a>**[iRadonMAP]** Radon Inversion via Deep Learning (**TMI**) [[paper](https://arxiv.org/pdf/1808.03015.pdf)]
 - <a name="ETEDN"></a>**[ETEDN]** An End-to-End Deep Network for Reconstructing CT Images Directly From Sparse Sinograms (**TCI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9264709)] [[Code](https://github.com/wangwei-cmd/CT-image-reconstruction)]
 - <a name="DIP"></a>**[DIP]** Computed Tomography Reconstruction Using Deep Image Prior and Learned Reconstruction Methods (**Inverse Problems**) [[paper](https://iopscience.iop.org/article/10.1088/1361-6420/aba415/pdf)] [[Code](https://github.com/oterobaguer/dip-ct-benchmark)]
+- <a name="DGR"></a>**[DGR]** An Unsupervised Reconstruction Method For Low-Dose CT Using Deep Generative Regularization Prior (**Biomedical Signal Processing and Control**) [[paper](https://arxiv.org/pdf/2012.06448.pdf)] [[Code](https://github.com/mozanunal/SparseCT)]
 
 ### 2019
 
