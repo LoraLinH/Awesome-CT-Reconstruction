@@ -37,7 +37,7 @@ If you have any problems, suggestions or improvements, please submit the issue.
 - <a name="SinoNet"></a>**[SinoNet]** Noise-Generating-Mechanism-Driven Unsupervised Learning for Low-Dose CT Sinogram Recovery (**TRPMS**) [[paper](https://ieeexplore.ieee.org/abstract/document/9439919/)]
 - <a name="N2S"></a>**[N2S]** Self-Supervised Training For Low-Dose Ct Reconstruction (**ISBI**) [[paper](https://arxiv.org/pdf/2010.13232.pdf)] [[Code](https://github.com/mozanunal/SparseCT)]
 - <a name="ALPD"></a>**[ALPD]** Adversarially learned iterative reconstruction for imaging inverse problems (**SSVM**) [[paper](https://arxiv.org/pdf/2103.16151.pdf)] [[Code](https://github.com/Subhadip-1/adversarial_primal_dual_tomography)]
-- <a name="FDM"></a>**[FDM]** Adversarially learned iterative reconstruction for imaging inverse problems (**Tomography**) [[paper](https://www.mdpi.com/2379-139X/7/4/77)] [[Code](https://github.com/sunchang2017/degradation-aware-sparse-CT-reconstruction)]
+- <a name="FDM"></a>**[FDM]** Degradation-Aware Deep Learning Framework for Sparse-View CT Reconstruction (**Tomography**) [[paper](https://www.mdpi.com/2379-139X/7/4/77)] [[Code](https://github.com/sunchang2017/degradation-aware-sparse-CT-reconstruction)]
 
 
 
@@ -50,6 +50,7 @@ If you have any problems, suggestions or improvements, please submit the issue.
 - <a name="DGR"></a>**[DGR]** An Unsupervised Reconstruction Method For Low-Dose CT Using Deep Generative Regularization Prior (**Biomedical Signal Processing and Control**) [[paper](https://arxiv.org/pdf/2012.06448.pdf)] [[Code](https://github.com/mozanunal/SparseCT)]
 - <a name="DLMIR"></a>**[DLMIR]** Deep learning methods for image reconstruction from angularly sparse data for CT and SAR imaging (**ASARI**) [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11393/1139306/Deep-learning-methods-for-image-reconstruction-from-angularly-sparse-data/10.1117/12.2558953.short?SSO=1)] [[Code](https://github.com/e-yavuz/Deep-Learning-Methods-for-Image-Reconstruction-from-Angularly-Sparse-Data-for-CT-and-SAR-Imaging)]
 - <a name="DEER"></a>**[DEER]** Deep efficient end-to-end reconstruction (DEER) network for few-view breast CT image reconstruction (**IEEE Access**) [[paper](https://ieeexplore.ieee.org/abstract/document/9239986)] [[Code](https://github.com/WANG-AXIS/DEER)]
+- <a name="HDNet"></a>**[HDNet]** Hybrid-domain neural network processing for sparse-view CT reconstruction (**TRPMS**) [[paper](https://ieeexplore.ieee.org/abstract/document/9153172)]
 
 ### 2019
 
@@ -58,9 +59,12 @@ If you have any problems, suggestions or improvements, please submit the issue.
 ### 2018
 - <a name="LEARN"></a>**[LEARN]** LEARN: Learned Experts’ Assessment-Based Reconstruction Network for Sparse-Data CT (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8290981)]
 - <a name="LPD"></a>**[LPD]** Learned Primal-Dual Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8271999/)]
+- <a name="CNNRPGD"></a>**[CNNRPGD]** CNN-Based Projected Gradient Descent for Consistent CT Image Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8353870)]
 - <a name="DLMI"></a>**[DLMI]** Low Dose CT Image Denoising Using a Generative Adversarial Network with Wasserstein Distance and Perceptual Loss (**TMI**) [[paper](https://arxiv.org/pdf/1708.00961.pdf)] [[Code](https://github.com/Ryosaeba8/Medical-Imaging-LOW-DOSE-CT-DENOISING)]
 - <a name="DD_Net"></a>**[DD_Net]** A Sparse-View CT Reconstruction Method Based on Combination of DenseNet and Deconvolution (**TMI**) [[paper](https://ieeexplore.ieee.org/document/8331861/)] [[Code](https://github.com/zzc623/DD_Net)]
 - <a name="DBSS"></a>**[DBSS]** Deep-neural-network-based sinogram synthesis for sparse-view CT image reconstruction (**TMI**) [[paper](https://arxiv.org/ftp/arxiv/papers/1803/1803.00694.pdf)]
+- <a name="DLCT"></a>**[DLCT]** Deep Learning Computed Tomography: Learning Projection-Domain Weights From Image Domain in Limited Angle Problems (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8355700)]
+- <a name="AUTOMAP"></a>**[AUTOMAP]** Image reconstruction by domain-transform manifold learning (**Nature**) [[paper](https://www.nature.com/articles/nature25988)]
 
 
 ### 2017
