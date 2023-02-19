@@ -32,6 +32,7 @@ If you have any problems, suggestions or improvements, please submit the issue.
 - <a name="DSigNet"></a>**[DSigNet]** Downsampled imaging geometric modeling for accurate ct reconstruction via deep learning (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9410296)] [[Code](https://github.com/hejipro/DSigNet)]
 - <a name="MAGIC"></a>**[MAGIC]** MAGIC: Manifold and graph integrative convolutional network for low-dose CT reconstruction (**TMI**) [[paper](https://arxiv.org/ftp/arxiv/papers/2008/2008.00406.pdf)]
 - <a name="CasRedSCAN"></a>**[CasRedSCAN]** Limited View Tomographic Reconstruction Using a Cascaded Residual Dense Spatial-Channel Attention Network With Projection Data Fidelity Layer (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9380210/)]
+- <a name="SUPER"></a>**[SUPER]** Unified Supervised-Unsupervised (SUPER) Learning for X-ray CT Image Reconstruction (**TMI**) [[paper](https://arxiv.org/pdf/2010.02761.pdf)]
 - <a name="Tensor-Net"></a>**[Tensor-Net]** Learning to Reconstruct CT Images From the VVBP-Tensor (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9458267)]
 - <a name="FISTA-Net"></a>**[FISTA-Net]** FISTA-Net: Learning a Fast Iterative Shrinkage Thresholding Network for Inverse Problems in Imaging (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9335299)]
 - <a name="SinoNet"></a>**[SinoNet]** Noise-Generating-Mechanism-Driven Unsupervised Learning for Low-Dose CT Sinogram Recovery (**TRPMS**) [[paper](https://ieeexplore.ieee.org/abstract/document/9439919/)]
@@ -45,6 +46,7 @@ If you have any problems, suggestions or improvements, please submit the issue.
 ### 2020
 - <a name="iRadonMAP"></a>**[iRadonMAP]** Radon Inversion via Deep Learning (**TMI**) [[paper](https://arxiv.org/pdf/1808.03015.pdf)]
 - <a name="MetaInv-Net"></a>**[MetaInv-Net]** MetaInv-Net: Meta Inversion Network for Sparse View CT Image Reconstruction (**TMI**) [[paper](https://arxiv.org/pdf/2006.00171.pdf)] [[Code](https://github.com/haimiaozh/MetaInv-Net)]
+- <a name="Momentum-Net"></a>**[Momentum-Net]** Momentum-Net: Fast and convergent iterative neural network for inverse problems (**TPAMI**) [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8011286/)]
 - <a name="ETEDN"></a>**[ETEDN]** An End-to-End Deep Network for Reconstructing CT Images Directly From Sparse Sinograms (**TCI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9264709)] [[Code](https://github.com/wangwei-cmd/CT-image-reconstruction)]
 - <a name="DIP"></a>**[DIP]** Computed Tomography Reconstruction Using Deep Image Prior and Learned Reconstruction Methods (**Inverse Problems**) [[paper](https://iopscience.iop.org/article/10.1088/1361-6420/aba415/pdf)] [[Code](https://github.com/oterobaguer/dip-ct-benchmark)]
 - <a name="DGR"></a>**[DGR]** An Unsupervised Reconstruction Method For Low-Dose CT Using Deep Generative Regularization Prior (**Biomedical Signal Processing and Control**) [[paper](https://arxiv.org/pdf/2012.06448.pdf)] [[Code](https://github.com/mozanunal/SparseCT)]
@@ -54,7 +56,8 @@ If you have any problems, suggestions or improvements, please submit the issue.
 
 ### 2019
 
-- <a name="SISVM"></a>**[SISVM]** Sinogram interpolation for sparse-view micro-CT with deep learning neural network (**Biomedical Signal Processing and Control**) [[paper](https://arxiv.org/ftp/arxiv/papers/1902/1902.03362.pdf)] [[Code](https://github.com/Swapneel7/Sparse-CT-Reconstruction-using-Deep-learning)]
+- <a name="SISVM"></a>**[SISVM]** Learning to Reconstruct Computed Tomography Images Directly From Sinogram Data Under A Variety of Data Acquisition Conditions (**TMI**) [[paper](https://ieeexplore.ieee.org/ielaam/42/8854342/8688568-aam.pdf)]
+- <a name="iCTNet"></a>**[iCTNet]** Sinogram interpolation for sparse-view micro-CT with deep learning neural network (**Biomedical Signal Processing and Control**) [[paper](https://arxiv.org/ftp/arxiv/papers/1902/1902.03362.pdf)] [[Code](https://github.com/Swapneel7/Sparse-CT-Reconstruction-using-Deep-learning)]
 
 ### 2018
 - <a name="LEARN"></a>**[LEARN]** LEARN: Learned Experts’ Assessment-Based Reconstruction Network for Sparse-Data CT (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8290981)]
