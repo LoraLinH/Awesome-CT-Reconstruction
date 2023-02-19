@@ -37,6 +37,7 @@ If you have any problems, suggestions or improvements, please submit the issue.
 
 ### 2020
 - <a name="iRadonMAP"></a>**[iRadonMAP]** Radon Inversion via Deep Learning (**TMI**) [[paper](https://arxiv.org/pdf/1808.03015.pdf)]
+- <a name="ETEDN"></a>**[ETEDN]** An End-to-End Deep Network for Reconstructing CT Images Directly From Sparse Sinograms (**TCI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9264709)] [[Code](https://github.com/wangwei-cmd/CT-image-reconstruction)]
 - <a name="DIP"></a>**[DIP]** Computed Tomography Reconstruction Using Deep Image Prior and Learned Reconstruction Methods (**Inverse Problems**) [[paper](https://iopscience.iop.org/article/10.1088/1361-6420/aba415/pdf)] [[Code](https://github.com/oterobaguer/dip-ct-benchmark)]
 
 ### 2019
