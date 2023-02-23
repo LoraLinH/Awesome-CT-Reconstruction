@@ -6,18 +6,25 @@ If you have any problems, suggestions or improvements, please submit the issue.
 
 ### arXiv papers
 
+- SOUL-Net: A Sparse and Low-Rank Unrolling Network for Spectral CT Image Reconstruction [[paper](https://arxiv.org/pdf/2207.12639.pdf)] [[Code](https://github.com/scuchenxiang/SOUL-Net)]
 - Synergizing Physics/Model-based and Data-driven Methods for Low-Dose CT [[paper](https://arxiv.org/pdf/2203.15725.pdf)]
 - Learned convex regularizers for inverse problems [[paper](https://arxiv.org/pdf/2008.02839.pdf)]
-- SOUL-Net: A Sparse and Low-Rank Unrolling Network for Spectral CT Image Reconstruction [[paper](https://arxiv.org/pdf/2207.12639.pdf)] [[Code](https://github.com/scuchenxiang/SOUL-Net)]
+- Extreme Few-view CT Reconstruction using Deep Inference [[paper](https://arxiv.org/pdf/1910.05375.pdf)]
+- 2-Step Sparse-View CT Reconstruction with a Domain-Specific Perceptual Network [[paper](https://arxiv.org/pdf/2012.04743.pdf)]
+
 
 ### 2023
+- <a name="PINER"></a>**[PINER]** PINER: Prior-informed Implicit Neural Representation Learning for Test-time Adaptation in Sparse-view CT Reconstruction (**WACV**) [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Song_PINER_Prior-Informed_Implicit_Neural_Representation_Learning_for_Test-Time_Adaptation_in_WACV_2023_paper.pdf)] [[Code](https://github.com/efzero/PINER)]
+- <a name="IRDS"></a>**[IRDS]** Iterative reconstruction of low-dose CT based on differential sparse (**Biomedical Signal Processing and Control**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1746809422006589)]
+- <a name="DADN"></a>**[DADN]** Domain-adaptive denoising network for low-dose CT via noise estimation and transfer learning (**Medical physics**) [[paper](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15952)]
 
 ### 2022
+- <a name="GMM-unNet"></a>**[GMM-unNet]** Noise Characteristics Modeled Unsupervised Network for Robust CT Image Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9852485)]
+- <a name="DREAM-Net"></a>**[DREAM-Net]** DREAM-Net: Deep Residual Error Iterative Minimization Network for Sparse-View CT Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9966660)]
 - <a name="DDCL"></a>**[DDCL]** Dual domain closed-loop learning for sparse-view CT reconstruction (**ICIFXCT**) [[paper](https://scholar.archive.org/work/uue6bwlzorh67ot3bwd56ai6ki/access/wayback/https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12304/123040M/Dual-domain-closed-loop-learning-for-sparse-view-CT-reconstruction/10.1117/12.2646639.pdf?SSO=1)]
 - <a name="DGR"></a>**[DGR]** An Unsupervised Reconstruction Method For Low-Dose CT Using Deep Generative Regularization Prior (**Biomedical Signal Processing and Control**) [[paper](https://arxiv.org/pdf/2012.06448.pdf)] [[Code](https://github.com/mozanunal/SparseCT)]
 - <a name="PLANet"></a>**[PLANet]** Learning Projection Views for Sparse-View CT Reconstruction (**ACM MM**) [[paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548204)]
-- <a name="GMM-unNet"></a>**[GMM-unNet]** Noise Characteristics Modeled Unsupervised Network for Robust CT Image Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9852485)]
-- <a name="DREAM-Net"></a>**[DREAM-Net]** DREAM-Net: Deep Residual Error Iterative Minimization Network for Sparse-View CT Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9966660)]
+- <a name="UNDIP"></a>**[UNDIP]** Sparse-view and limited-angle CT reconstruction with untrained networks and deep image prior (**CMPB**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S016926072200548X)]
 - <a name="ACID-B"></a>**[ACID-B]** Stabilizing deep tomographic reconstruction: Part B. Convergence analysis and adversarial attacks (**Patterns**) [[paper](https://www.sciencedirect.com/science/article/pii/S2666389922000551)]
 - <a name="ACID-A"></a>**[ACID-A]** Stabilizing deep tomographic reconstruction: Part A. Hybrid framework and experimental results (**Patterns**) [[paper](https://www.sciencedirect.com/science/article/pii/S266638992200054X?ref=pdf_download&fr=RR-2&rr=79b5fa97d8a6096f)]
 - <a name="EASEL"></a>**[EASEL]** Iterative Reconstruction for Low-Dose CT using Deep Gradient Priors of Generative Model (**TRPMS**) [[paper](https://ieeexplore.ieee.org/abstract/document/9703672)] [[Code](https://github.com/yqx7150/EASEL)]
@@ -39,6 +46,7 @@ If you have any problems, suggestions or improvements, please submit the issue.
 - <a name="N2S"></a>**[N2S]** Self-Supervised Training For Low-Dose Ct Reconstruction (**ISBI**) [[paper](https://arxiv.org/pdf/2010.13232.pdf)] [[Code](https://github.com/mozanunal/SparseCT)]
 - <a name="ALPD"></a>**[ALPD]** Adversarially learned iterative reconstruction for imaging inverse problems (**SSVM**) [[paper](https://arxiv.org/pdf/2103.16151.pdf)] [[Code](https://github.com/Subhadip-1/adversarial_primal_dual_tomography)]
 - <a name="FDM"></a>**[FDM]** Degradation-Aware Deep Learning Framework for Sparse-View CT Reconstruction (**Tomography**) [[paper](https://www.mdpi.com/2379-139X/7/4/77)] [[Code](https://github.com/sunchang2017/degradation-aware-sparse-CT-reconstruction)]
+- <a name="MDNN"></a>**[MDNN]** Competitive performance of a modularized deep neural network compared to commercial algorithms for low-dose CT image reconstruction (**Nature Machine Intelligence**) [[paper](https://www.nature.com/articles/s42256-019-0057-9)]
 
 
 
@@ -55,12 +63,20 @@ If you have any problems, suggestions or improvements, please submit the issue.
 - <a name="DLMIR"></a>**[DLMIR]** Deep learning methods for image reconstruction from angularly sparse data for CT and SAR imaging (**ASARI**) [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11393/1139306/Deep-learning-methods-for-image-reconstruction-from-angularly-sparse-data/10.1117/12.2558953.short?SSO=1)] [[Code](https://github.com/e-yavuz/Deep-Learning-Methods-for-Image-Reconstruction-from-Angularly-Sparse-Data-for-CT-and-SAR-Imaging)]
 - <a name="DEER"></a>**[DEER]** Deep efficient end-to-end reconstruction (DEER) network for few-view breast CT image reconstruction (**IEEE Access**) [[paper](https://ieeexplore.ieee.org/abstract/document/9239986)] [[Code](https://github.com/WANG-AXIS/DEER)]
 - <a name="HDNet"></a>**[HDNet]** Hybrid-domain neural network processing for sparse-view CT reconstruction (**TRPMS**) [[paper](https://ieeexplore.ieee.org/abstract/document/9153172)]
+- <a name="ℓ₀DL"></a>**[ℓ₀DL]** Limited-Angle X-Ray CT Reconstruction Using Image Gradient ℓ₀-Norm With Dictionary Learning (**TRPMS**) [[paper](https://ieeexplore.ieee.org/abstract/document/9084157)]
+- <a name="REDAEP"></a>**[REDAEP]** REDAEP: Robust and Enhanced Denoising Autoencoding Prior for Sparse-View CT Reconstruction (**TRPMS**) [[paper](https://ieeexplore.ieee.org/abstract/document/9076295)]
+- <a name="CADL"></a>**[CADL]** Noise and spatial resolution properties of a commercially available deep learning‐based CT reconstruction algorithm (**Medical physics**) [[paper](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.14319)]
 
 ### 2019
 
 - <a name="SISVM"></a>**[SISVM]** Learning to Reconstruct Computed Tomography Images Directly From Sinogram Data Under A Variety of Data Acquisition Conditions (**TMI**) [[paper](https://ieeexplore.ieee.org/ielaam/42/8854342/8688568-aam.pdf)]
 - <a name="SPULTRA"></a>**[SPULTRA]** SPULTRA: Low-Dose CT Image Reconstruction with Joint Statistical and Learned Image Models (**TMI**) [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7170173/pdf/nihms-1573372.pdf)]
+- <a name="VVBP-tSVD"></a>**[VVBP-tSVD]** VVBP-Tensor in the FBP Algorithm: Its Properties and Application in Low-Dose CT Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8795540)]
 - <a name="iCTNet"></a>**[iCTNet]** Sinogram interpolation for sparse-view micro-CT with deep learning neural network (**Biomedical Signal Processing and Control**) [[paper](https://arxiv.org/ftp/arxiv/papers/1902/1902.03362.pdf)] [[Code](https://github.com/Swapneel7/Sparse-CT-Reconstruction-using-Deep-learning)]
+- <a name="PDE"></a>**[PDE]** A regional adaptive variational PDE model for computed tomography image reconstruction (**PR**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320319301086)]
+- <a name="DNNSS"></a>**[DNNSS]** Deep-neural-network-based sinogram synthesis for sparse-view CT image reconstruction (**TRPMS**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8452958)]
+- <a name="DL-PICCS"></a>**[DL-PICCS]** Accurate and robust sparse-view angle CT image reconstruction using deep learning and prior image constrained compressed sensing (DL-PICCS) (**Medical physics**) [[paper](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15183)]
+
 
 ### 2018
 - <a name="LEARN"></a>**[LEARN]** LEARN: Learned Experts’ Assessment-Based Reconstruction Network for Sparse-Data CT (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8290981)]
@@ -72,16 +88,23 @@ If you have any problems, suggestions or improvements, please submit the issue.
 - <a name="DD_Net"></a>**[DD_Net]** A Sparse-View CT Reconstruction Method Based on Combination of DenseNet and Deconvolution (**TMI**) [[paper](https://ieeexplore.ieee.org/document/8331861/)] [[Code](https://github.com/zzc623/DD_Net)]
 - <a name="DBSS"></a>**[DBSS]** Deep-neural-network-based sinogram synthesis for sparse-view CT image reconstruction (**TMI**) [[paper](https://arxiv.org/ftp/arxiv/papers/1803/1803.00694.pdf)]
 - <a name="DLCT"></a>**[DLCT]** Deep Learning Computed Tomography: Learning Projection-Domain Weights From Image Domain in Limited Angle Problems (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8355700)]
+- <a name="DLCT"></a>**[PTPN]** Intelligent Parameter Tuning in Optimization-Based Iterative CT Reconstruction via Deep Reinforcement Learning (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8331966)]
+- <a name="DD-Net"></a>**[DD-Net]** A Sparse-View CT Reconstruction Method Based on Combination of DenseNet and Deconvolution (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8331861/)]
+- <a name="NLCTF"></a>**[NLCTF]** Non-Local Low-Rank Cube-Based Tensor Factorization for Spectral CT Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8510879)]
+- <a name="CTNet"></a>**[CTNet]** Lose The Views: Limited Angle CT Reconstruction via Implicit Sinogram Completion (**CVPR**) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Anirudh_Lose_the_Views_CVPR_2018_paper.pdf)]
 - <a name="AUTOMAP"></a>**[AUTOMAP]** Image reconstruction by domain-transform manifold learning (**Nature**) [[paper](https://www.nature.com/articles/nature25988)]
 
 
 
 ### 2017
 - <a name="IMAP-TV"></a>**[IMAP-TV]** Robust low-dose CT sinogram preprocessing via exploiting noise-generating mechanism (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8086204/)]
+- <a name="KSAE"></a>**[KSAE]** Iterative Low-dose CT Reconstruction with Priors Trained by Artificial Neural Network (**TMI**) [[paper](https://70f3968c-a-017ed1b7-s-sites.googlegroups.com/a/uw.edu/machine-learning-in-medical-imaging-journal-club/home/meetingviiimlinmedimagjournalclub/Wu2017-IEEETrans.Med.Imaging.pdf?attachauth=ANoY7cpI0cJui5L3sh8apf5iahZ1irButBsCT4jRuFoP6PrrXUy8NaqSuCJJQ0EgO5GPDpNo88mdTrOy9178zvTIHQqsXxWRNiuQyBpGMNo08ocDMoNq7EB8KkqMKeizWQz0_DfZhvgecp6XU6UmsklP6HoUUtI-NLjUQDCCfj27Utsl7vpftkNh65OvgaJeqzTyOXfkuCkG3VLlb3coge5TNwiotH6GyKeWUoax3ioif0Ri8FY8hQ5PwY3i4Y2DAwDKABArmGXRywU-y0gCK01bGW7AuEPuS2NA4JxkUUOtW4Xpd6vK_s5cJb_4-yMMLQqnxe3Opt0o7_80zud10G80i1uiTmpkkA%3D%3D&attredirects=0)]
+- <a name="DeepCNN"></a>**[DeepCNN]** A deep convolutional neural network using directional wavelets for low‐dose X‐ray CT reconstruction (**Medical physics**) [[paper](https://arxiv.org/pdf/1610.09736.pdf)]
+- <a name="SENP"></a>**[SENP]** Low‐dose CT reconstruction using spatially encoded nonlocal penalty (**Medical physics**) [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5927365/)]
 
 
-## Surveys
+<!-- ## Surveys
 - A review on deep learning in medical image reconstruction (**JORSC**) [[paper](https://arxiv.org/pdf/1906.10643.pdf)]
 
 ## Challenge
-- <a name="LoDoPaB-CT"></a>**[LoDoPaB-CT]** LoDoPaB-CT, a benchmark dataset for low-dose computed tomography reconstruction (**Scientific Data**) [[paper](https://www.nature.com/articles/s41597-021-00893-z.pdf)] [[Link](https://lodopab.grand-challenge.org/)] [[Code](https://github.com/jleuschn/lodopab_tech_ref)]
+- <a name="LoDoPaB-CT"></a>**[LoDoPaB-CT]** LoDoPaB-CT, a benchmark dataset for low-dose computed tomography reconstruction (**Scientific Data**) [[paper](https://www.nature.com/articles/s41597-021-00893-z.pdf)] [[Link](https://lodopab.grand-challenge.org/)] [[Code](https://github.com/jleuschn/lodopab_tech_ref)] -->
