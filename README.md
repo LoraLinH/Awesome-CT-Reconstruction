@@ -24,7 +24,7 @@ Papers are coming. If you have any problems, suggestions or improvements, please
 ### 2022
 - <a name="GMM-unNet"></a>**[GMM-unNet]** Noise Characteristics Modeled Unsupervised Network for Robust CT Image Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9852485)]
 - <a name="DREAM-Net"></a>**[DREAM-Net]** DREAM-Net: Deep Residual Error Iterative Minimization Network for Sparse-View CT Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9966660)]
-<a name="FONT-SIR"></a>**[FONT-SIR]** FONT-SIR: Fourth-Order Nonlocal Tensor Decomposition Model for Spectral CT Image Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9726161)]
+- <a name="FONT-SIR"></a>**[FONT-SIR]** FONT-SIR: Fourth-Order Nonlocal Tensor Decomposition Model for Spectral CT Image Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9726161)]
 - <a name="DDCL"></a>**[DDCL]** Dual domain closed-loop learning for sparse-view CT reconstruction (**ICIFXCT**) [[paper](https://scholar.archive.org/work/uue6bwlzorh67ot3bwd56ai6ki/access/wayback/https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12304/123040M/Dual-domain-closed-loop-learning-for-sparse-view-CT-reconstruction/10.1117/12.2646639.pdf?SSO=1)]
 - <a name="DGR"></a>**[DGR]** An Unsupervised Reconstruction Method For Low-Dose CT Using Deep Generative Regularization Prior (**Biomedical Signal Processing and Control**) [[paper](https://arxiv.org/pdf/2012.06448.pdf)] [[Code](https://github.com/mozanunal/SparseCT)]
 - <a name="PLANet"></a>**[PLANet]** Learning Projection Views for Sparse-View CT Reconstruction (**ACM MM**) [[paper](https://dl.acm.org/doi/abs/10.1145/3503161.3548204)]
