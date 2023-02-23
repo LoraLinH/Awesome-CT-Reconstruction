@@ -1,6 +1,6 @@
 # Awesome-CT-Reconstruction
 
-If you have any problems, suggestions or improvements, please submit the issue.
+Papers are coming. If you have any problems, suggestions or improvements, please submit the issue.
 
 ## Papers
 
