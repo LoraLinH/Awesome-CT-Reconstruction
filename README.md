@@ -6,6 +6,8 @@ Papers are coming. If you have any problems, suggestions or improvements, please
 
 ### arXiv papers
 - Generative Modeling in Sinogram Domain for Sparse-view CT Reconstruction [[paper](https://arxiv.org/ftp/arxiv/papers/2211/2211.13926.pdf)]
+- CoCoDiff: A Contextual Conditional Diffusion Model for Low-dose CT Image Denoising [[paper](https://www.researchgate.net/profile/Hongming-Shan-2/publication/364550369_CoCoDiff_a_contextual_conditional_diffusion_model_for_low-dose_CT_image_denoising/links/6363d9b4431b1f5300689d48/CoCoDiff-a-contextual-conditional-diffusion-model-for-low-dose-CT-image-denoising.pdf)]
+- Low-Dose CT Using Denoising Diffusion Probabilistic Model for 20× Speedup [[paper](https://arxiv.org/pdf/2209.15136.pdf)]
 - SOUL-Net: A Sparse and Low-Rank Unrolling Network for Spectral CT Image Reconstruction [[paper](https://arxiv.org/pdf/2207.12639.pdf)] [[Code](https://github.com/scuchenxiang/SOUL-Net)]
 - Synergizing Physics/Model-based and Data-driven Methods for Low-Dose CT [[paper](https://arxiv.org/pdf/2203.15725.pdf)]
 - UncertaINR: Uncertainty Quantification of End-to-End Implicit Neural Representations for Computed Tomography [[paper](https://arxiv.org/pdf/2202.10847.pdf)]
