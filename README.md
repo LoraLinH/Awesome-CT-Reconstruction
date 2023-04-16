@@ -40,7 +40,7 @@ Papers are coming. If you have any problems, suggestions or improvements, please
 
 
 ### 2021
-- <a name="DRONE"></a>**[DRONE]** Computed Tomography Reconstruction Using Deep Image Prior and Learned Reconstruction Methods (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9424618/)] [[Code](https://github.com/weiwenwu12/DRONE)]
+- <a name="DRONE"></a>**[DRONE]** DRONE: Dual-Domain Residual-based Optimization NEtwork for Sparse-View CT Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9424618/)] [[Code](https://github.com/weiwenwu12/DRONE)]
 - <a name="CLEAR"></a>**[CLEAR]** CLEAR: Comprehensive Learning Enabled Adversarial Reconstruction for Subtle Structure Enhanced Low-Dose CT Imaging (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9488666)]
 - <a name="PDF"></a>**[PDF]** CT Reconstruction With PDF: Parameter-Dependent Framework for Data From Multiple Geometries and Dose Levels (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9446923/)]
 - <a name="DSigNet"></a>**[DSigNet]** Downsampled imaging geometric modeling for accurate ct reconstruction via deep learning (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9410296)] [[Code](https://github.com/hejipro/DSigNet)]
