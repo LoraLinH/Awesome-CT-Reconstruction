@@ -102,7 +102,8 @@ Papers are coming. If you have any problems, suggestions or improvements, please
 - <a name="DLCT"></a>**[DLCT]** Deep Learning Computed Tomography: Learning Projection-Domain Weights From Image Domain in Limited Angle Problems (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8355700)]
 - <a name="DLCT"></a>**[PTPN]** Intelligent Parameter Tuning in Optimization-Based Iterative CT Reconstruction via Deep Reinforcement Learning (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8331966)]
 - <a name="DD-Net"></a>**[DD-Net]** A Sparse-View CT Reconstruction Method Based on Combination of DenseNet and Deconvolution (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8331861/)]
-- <a name="NLCTF"></a>**[NLCTF]** Non-Local Low-Rank Cube-Based Tensor Factorization for Spectral CT Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8510879)]
+- <a name="NLCTF"></a>**[NLCTF]** Non-Local Low-Rank Cube-Based Tensor Factorization for Spectral CT Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8510879)]\
+- <a name="WavResNet"></a>**[WavResNet]** Deep Convolutional Framelet Denosing for Low-Dose CT via Wavelet Residual Network (**Medical Imaging**) [[paper](https://arxiv.org/pdf/1707.09938.pdf)]
 - <a name="CTNet"></a>**[CTNet]** Lose The Views: Limited Angle CT Reconstruction via Implicit Sinogram Completion (**CVPR**) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Anirudh_Lose_the_Views_CVPR_2018_paper.pdf)]
 - <a name="AUTOMAP"></a>**[AUTOMAP]** Image reconstruction by domain-transform manifold learning (**Nature**) [[paper](https://www.nature.com/articles/nature25988)]
 
