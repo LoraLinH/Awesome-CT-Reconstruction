@@ -37,6 +37,7 @@ Papers are coming. If you have any problems, suggestions or improvements, please
 - <a name="EASEL"></a>**[EASEL]** Iterative Reconstruction for Low-Dose CT using Deep Gradient Priors of Generative Model (**TRPMS**) [[paper](https://ieeexplore.ieee.org/abstract/document/9703672)] [[Code](https://github.com/yqx7150/EASEL)]
 - <a name="DuDoTrans"></a>**[DuDoTrans]** DuDoTrans: Dual-Domain Transformer for Sparse-View CT Reconstruction (**MLMIR**) [[paper](https://link.springer.com/chapter/10.1007/978-3-031-17247-2_9)] [[Code](https://github.com/mars11121/DuDoTrans)]
 - <a name="MALAR"></a>**[MALAR]** Multiple Adversarial Learning based Angiography Reconstruction for Ultra-low-dose Contrast Medium CT (**JBHI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9916111)] [[Code](https://github.com/HIC-SYSU/MALAR)]
+- <a name="DESDGAN"></a>**[DESDGAN]** A Dual-Encoder-Single-Decoder Based Low-Dose CT Denoising Network (**JBHI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9726904)] [[Code](https://github.com/hanzefang/DESDGAN)]
 
 
 ### 2021
@@ -56,7 +57,7 @@ Papers are coming. If you have any problems, suggestions or improvements, please
 - <a name="ALPD"></a>**[ALPD]** Adversarially learned iterative reconstruction for imaging inverse problems (**SSVM**) [[paper](https://arxiv.org/pdf/2103.16151.pdf)] [[Code](https://github.com/Subhadip-1/adversarial_primal_dual_tomography)]
 - <a name="FDM"></a>**[FDM]** Degradation-Aware Deep Learning Framework for Sparse-View CT Reconstruction (**Tomography**) [[paper](https://www.mdpi.com/2379-139X/7/4/77)] [[Code](https://github.com/sunchang2017/degradation-aware-sparse-CT-reconstruction)]
 - <a name="MAP-NN"></a>**[MAP-NN]** Competitive performance of a modularized deep neural network compared to commercial algorithms for low-dose CT image reconstruction (**Nature Machine Intelligence**) [[paper](https://www.nature.com/articles/s42256-019-0057-9)]
-
+- <a name="DeACNN"></a>**[DeACNN]** Learning a Deep CNN Denoising Approach Using Anatomical Prior Information Implemented With Attention Mechanism for Low-Dose CT Imaging on Clinical Patient Data From Multiple Anatomical Sites (**JBHI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9362125)]
 
 
 
@@ -65,6 +66,7 @@ Papers are coming. If you have any problems, suggestions or improvements, please
 - <a name="LRTP"></a>**[LRTP]** Spectral CT reconstruction via low-rank representation and region-specific texture preserving Markov random field regularization (**TMI**) [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7529661/pdf/nihms-1569703.pdf)]
 - <a name="FSTensor"></a>**[FSTensor]** FSTensorFull-spectrum-knowledge-aware tensor model for energy-resolved CT iterative reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9016096)]
 - <a name="MetaInv-Net"></a>**[MetaInv-Net]** MetaInv-Net: Meta Inversion Network for Sparse View CT Image Reconstruction (**TMI**) [[paper](https://arxiv.org/pdf/2006.00171.pdf)] [[Code](https://github.com/haimiaozh/MetaInv-Net)]
+- <a name="SACNN"></a>**[SACNN]** SACNN: Self-Attention Convolutional Neural Network for Low-Dose CT Denoising With Self-Supervised Perceptual Loss Network (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8964295)]
 - <a name="Momentum-Net"></a>**[Momentum-Net]** Momentum-Net: Fast and convergent iterative neural network for inverse problems (**TPAMI**) [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8011286/)]
 - <a name="ETEDN"></a>**[ETEDN]** An End-to-End Deep Network for Reconstructing CT Images Directly From Sparse Sinograms (**TCI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9264709)] [[Code](https://github.com/wangwei-cmd/CT-image-reconstruction)]
 - <a name="DIP"></a>**[DIP]** Computed Tomography Reconstruction Using Deep Image Prior and Learned Reconstruction Methods (**Inverse Problems**) [[paper](https://iopscience.iop.org/article/10.1088/1361-6420/aba415/pdf)] [[Code](https://github.com/oterobaguer/dip-ct-benchmark)]
@@ -76,6 +78,7 @@ Papers are coming. If you have any problems, suggestions or improvements, please
 - <a name="ℓ₀DL"></a>**[ℓ₀DL]** Limited-Angle X-Ray CT Reconstruction Using Image Gradient ℓ₀-Norm With Dictionary Learning (**TRPMS**) [[paper](https://ieeexplore.ieee.org/abstract/document/9084157)]
 - <a name="REDAEP"></a>**[REDAEP]** REDAEP: Robust and Enhanced Denoising Autoencoding Prior for Sparse-View CT Reconstruction (**TRPMS**) [[paper](https://ieeexplore.ieee.org/abstract/document/9076295)]
 - <a name="CADL"></a>**[CADL]** Noise and spatial resolution properties of a commercially available deep learning‐based CT reconstruction algorithm (**Medical physics**) [[paper](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.14319)]
+
 
 ### 2019
 
@@ -102,7 +105,7 @@ Papers are coming. If you have any problems, suggestions or improvements, please
 - <a name="DLCT"></a>**[DLCT]** Deep Learning Computed Tomography: Learning Projection-Domain Weights From Image Domain in Limited Angle Problems (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8355700)]
 - <a name="DLCT"></a>**[PTPN]** Intelligent Parameter Tuning in Optimization-Based Iterative CT Reconstruction via Deep Reinforcement Learning (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8331966)]
 - <a name="DD-Net"></a>**[DD-Net]** A Sparse-View CT Reconstruction Method Based on Combination of DenseNet and Deconvolution (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8331861/)]
-- <a name="NLCTF"></a>**[NLCTF]** Non-Local Low-Rank Cube-Based Tensor Factorization for Spectral CT Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8510879)]\
+- <a name="NLCTF"></a>**[NLCTF]** Non-Local Low-Rank Cube-Based Tensor Factorization for Spectral CT Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8510879)]
 - <a name="WavResNet"></a>**[WavResNet]** Deep Convolutional Framelet Denosing for Low-Dose CT via Wavelet Residual Network (**Medical Imaging**) [[paper](https://arxiv.org/pdf/1707.09938.pdf)]
 - <a name="CTNet"></a>**[CTNet]** Lose The Views: Limited Angle CT Reconstruction via Implicit Sinogram Completion (**CVPR**) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Anirudh_Lose_the_Views_CVPR_2018_paper.pdf)]
 - <a name="AUTOMAP"></a>**[AUTOMAP]** Image reconstruction by domain-transform manifold learning (**Nature**) [[paper](https://www.nature.com/articles/nature25988)]
