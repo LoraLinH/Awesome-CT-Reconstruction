@@ -55,7 +55,7 @@ Papers are coming. If you have any problems, suggestions or improvements, please
 - <a name="N2S"></a>**[N2S]** Self-Supervised Training For Low-Dose Ct Reconstruction (**ISBI**) [[paper](https://arxiv.org/pdf/2010.13232.pdf)] [[Code](https://github.com/mozanunal/SparseCT)]
 - <a name="ALPD"></a>**[ALPD]** Adversarially learned iterative reconstruction for imaging inverse problems (**SSVM**) [[paper](https://arxiv.org/pdf/2103.16151.pdf)] [[Code](https://github.com/Subhadip-1/adversarial_primal_dual_tomography)]
 - <a name="FDM"></a>**[FDM]** Degradation-Aware Deep Learning Framework for Sparse-View CT Reconstruction (**Tomography**) [[paper](https://www.mdpi.com/2379-139X/7/4/77)] [[Code](https://github.com/sunchang2017/degradation-aware-sparse-CT-reconstruction)]
-- <a name="MDNN"></a>**[MDNN]** Competitive performance of a modularized deep neural network compared to commercial algorithms for low-dose CT image reconstruction (**Nature Machine Intelligence**) [[paper](https://www.nature.com/articles/s42256-019-0057-9)]
+- <a name="MAP-NN"></a>**[MAP-NN]** Competitive performance of a modularized deep neural network compared to commercial algorithms for low-dose CT image reconstruction (**Nature Machine Intelligence**) [[paper](https://www.nature.com/articles/s42256-019-0057-9)]
 
 
 
@@ -96,7 +96,7 @@ Papers are coming. If you have any problems, suggestions or improvements, please
 - <a name="RAD"></a>**[RAD]** Regularization analysis and design for prior-image-based X-ray CT reconstruction (**TMI**) [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6295916/)]
 - <a name="3pADMM"></a>**[3pADMM]** Optimizing a parameterized plug-and-play ADMM for iterative low-dose CT reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8434327/)]
 - <a name="DLMI"></a>**[DLMI]** Low Dose CT Image Denoising Using a Generative Adversarial Network with Wasserstein Distance and Perceptual Loss (**TMI**) [[paper](https://arxiv.org/pdf/1708.00961.pdf)] [[Code](https://github.com/Ryosaeba8/Medical-Imaging-LOW-DOSE-CT-DENOISING)]
-- <a name="DD_Net"></a>**[DD_Net]** A Sparse-View CT Reconstruction Method Based on Combination of DenseNet and Deconvolution (**TMI**) [[paper](https://ieeexplore.ieee.org/document/8331861/)] [[Code](https://github.com/zzc623/DD_Net)]
+- <a name="DD-Net"></a>**[DD-Net]** A Sparse-View CT Reconstruction Method Based on Combination of DenseNet and Deconvolution (**TMI**) [[paper](https://ieeexplore.ieee.org/document/8331861/)] [[Code](https://github.com/zzc623/DD_Net)]
 - <a name="DBSS"></a>**[DBSS]** Deep-neural-network-based sinogram synthesis for sparse-view CT image reconstruction (**TMI**) [[paper](https://arxiv.org/ftp/arxiv/papers/1803/1803.00694.pdf)]
 - <a name="TFU-Net"></a>**[TFU-Net]** Framing U-Net via Deep Convolutional Framelets: Application to Sparse-view CT (**TMI**) [[paper](https://arxiv.org/pdf/1708.08333.pdf)]
 - <a name="DLCT"></a>**[DLCT]** Deep Learning Computed Tomography: Learning Projection-Domain Weights From Image Domain in Limited Angle Problems (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8355700)]
