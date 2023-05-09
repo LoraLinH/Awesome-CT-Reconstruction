@@ -86,6 +86,7 @@ Papers are coming. If you have any problems, suggestions or improvements, please
 - <a name="PDE"></a>**[PDE]** A regional adaptive variational PDE model for computed tomography image reconstruction (**PR**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320319301086)]
 - <a name="DNNSS"></a>**[DNNSS]** Deep-neural-network-based sinogram synthesis for sparse-view CT image reconstruction (**TRPMS**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8452958)]
 - <a name="DL-PICCS"></a>**[DL-PICCS]** Accurate and robust sparse-view angle CT image reconstruction using deep learning and prior image constrained compressed sensing (DL-PICCS) (**Medical physics**) [[paper](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15183)]
+- <a name="SPSS"></a>**[SPSS]** Sharpness preserved sinogram synthesis using convolutional neural network for sparse-view CT imaging (**Medical Imaging**) [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10949/109490E/Sharpness-preserved-sinogram-synthesis-using-convolutional-neural-network-for-sparse/10.1117/12.2512894.short)]
 - <a name="SUPER"></a>**[SUPER]** SUPER Learning: A Supervised-Unsupervised Framework for Low-Dose CT Image Reconstruction (**ICCVW**) [[paper](https://openaccess.thecvf.com/content_ICCVW_2019/papers/LCI/Li_SUPER_Learning_A_Supervised-Unsupervised_Framework_for_Low-Dose_CT_Image_Reconstruction_ICCVW_2019_paper.pdf)]
 
 ### 2018
@@ -113,6 +114,7 @@ Papers are coming. If you have any problems, suggestions or improvements, please
 - <a name="RED-CNN"></a>**[RED-CNN]** Low-dose CT with a residual encoder-decoder convolutional neural network (**TMI**) [[paper](https://arxiv.org/ftp/arxiv/papers/1702/1702.00288.pdf)] [[Code](https://github.com/SSinyu/RED-CNN)]
 - <a name="DeepCNN"></a>**[DeepCNN]** A deep convolutional neural network using directional wavelets for low‐dose X‐ray CT reconstruction (**Medical physics**) [[paper](https://arxiv.org/pdf/1610.09736.pdf)]
 - <a name="SENP"></a>**[SENP]** Low‐dose CT reconstruction using spatially encoded nonlocal penalty (**Medical physics**) [[paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5927365/)]
+- <a name="VISS"></a>**[VISS]** View-interpolation of sparsely sampled sinogram using convolutional neural network (**Medical Imaging**) [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10133/1013328/View-interpolation-of-sparsely-sampled-sinogram-using-convolutional-neural-network/10.1117/12.2254244.short)]
 
 
 <!-- ## Surveys
