@@ -38,6 +38,7 @@ Papers are coming. If you have any problems, suggestions or improvements, please
 - <a name="DuDoTrans"></a>**[DuDoTrans]** DuDoTrans: Dual-Domain Transformer for Sparse-View CT Reconstruction (**MLMIR**) [[paper](https://link.springer.com/chapter/10.1007/978-3-031-17247-2_9)] [[Code](https://github.com/mars11121/DuDoTrans)]
 - <a name="MALAR"></a>**[MALAR]** Multiple Adversarial Learning based Angiography Reconstruction for Ultra-low-dose Contrast Medium CT (**JBHI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9916111)] [[Code](https://github.com/HIC-SYSU/MALAR)]
 - <a name="DESDGAN"></a>**[DESDGAN]** A Dual-Encoder-Single-Decoder Based Low-Dose CT Denoising Network (**JBHI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9726904)] [[Code](https://github.com/hanzefang/DESDGAN)]
+- <a name="CCN-CL"></a>**[CCN-CL]** CCN-CL: A content-noise complementary network with contrastive learning for low-dose computed tomography denoising (**Computers in Biology and Medicine**) [[paper](https://www.sciencedirect.com/science/article/pii/S0010482522005339)]
 
 
 ### 2021
