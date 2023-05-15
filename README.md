@@ -22,6 +22,7 @@ Papers are coming. If you have any problems, suggestions or improvements, please
 - <a name="PINER"></a>**[PINER]** PINER: Prior-informed Implicit Neural Representation Learning for Test-time Adaptation in Sparse-view CT Reconstruction (**WACV**) [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Song_PINER_Prior-Informed_Implicit_Neural_Representation_Learning_for_Test-Time_Adaptation_in_WACV_2023_paper.pdf)] [[Code](https://github.com/efzero/PINER)]
 - <a name="IRDS"></a>**[IRDS]** Iterative reconstruction of low-dose CT based on differential sparse (**Biomedical Signal Processing and Control**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1746809422006589)]
 - <a name="DADN"></a>**[DADN]** Domain-adaptive denoising network for low-dose CT via noise estimation and transfer learning (**Medical physics**) [[paper](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15952)]
+- <a name="SPQI"></a>**[SPQI]** Structure-preserving quality improvement of cone beam CT images using contrastive learning (**Computers in Biology and Medicine**) [[paper](https://www.sciencedirect.com/science/article/pii/S0010482523002688)]
 
 ### 2022
 - <a name="GMM-unNet"></a>**[GMM-unNet]** Noise Characteristics Modeled Unsupervised Network for Robust CT Image Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9852485)]
