@@ -5,6 +5,7 @@ Papers are coming. If you have any problems, suggestions or improvements, please
 ## Papers
 
 ### arXiv papers
+- Stage-by-stage Wavelet Optimization Refinement Diffusion Model for Sparse-View CT Reconstruction [[paper](https://www.researchgate.net/publication/373518824_Stage-by-stage_Wavelet_Optimization_Refinement_Diffusion_Model_for_Sparse-View_CT_Reconstruction)] [[Code](https://github.com/yqx7150/SWORD)]
 - Generative Modeling in Sinogram Domain for Sparse-view CT Reconstruction [[paper](https://arxiv.org/ftp/arxiv/papers/2211/2211.13926.pdf)]
 - CoCoDiff: A Contextual Conditional Diffusion Model for Low-dose CT Image Denoising [[paper](https://www.researchgate.net/profile/Hongming-Shan-2/publication/364550369_CoCoDiff_a_contextual_conditional_diffusion_model_for_low-dose_CT_image_denoising/links/6363d9b4431b1f5300689d48/CoCoDiff-a-contextual-conditional-diffusion-model-for-low-dose-CT-image-denoising.pdf)]
 - Low-Dose CT Using Denoising Diffusion Probabilistic Model for 20× Speedup [[paper](https://arxiv.org/pdf/2209.15136.pdf)]
