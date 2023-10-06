@@ -24,6 +24,7 @@ Papers are coming. If you have any problems, suggestions or improvements, please
 - <a name="IRDS"></a>**[IRDS]** Iterative reconstruction of low-dose CT based on differential sparse (**Biomedical Signal Processing and Control**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1746809422006589)]
 - <a name="DADN"></a>**[DADN]** Domain-adaptive denoising network for low-dose CT via noise estimation and transfer learning (**Medical physics**) [[paper](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15952)]
 - <a name="SPQI"></a>**[SPQI]** Structure-preserving quality improvement of cone beam CT images using contrastive learning (**Computers in Biology and Medicine**) [[paper](https://www.sciencedirect.com/science/article/pii/S0010482523002688)]
+- <a name="3DIP"></a>**[3DIP]** Solving 3D Inverse Problems Using Pre-Trained 2D Diffusion Models (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chung_Solving_3D_Inverse_Problems_Using_Pre-Trained_2D_Diffusion_Models_CVPR_2023_paper.html)]
 
 ### 2022
 - <a name="GMM-unNet"></a>**[GMM-unNet]** Noise Characteristics Modeled Unsupervised Network for Robust CT Image Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9852485)]
@@ -61,6 +62,7 @@ Papers are coming. If you have any problems, suggestions or improvements, please
 - <a name="FDM"></a>**[FDM]** Degradation-Aware Deep Learning Framework for Sparse-View CT Reconstruction (**Tomography**) [[paper](https://www.mdpi.com/2379-139X/7/4/77)] [[Code](https://github.com/sunchang2017/degradation-aware-sparse-CT-reconstruction)]
 - <a name="MAP-NN"></a>**[MAP-NN]** Competitive performance of a modularized deep neural network compared to commercial algorithms for low-dose CT image reconstruction (**Nature Machine Intelligence**) [[paper](https://www.nature.com/articles/s42256-019-0057-9)]
 - <a name="DeACNN"></a>**[DeACNN]** Learning a Deep CNN Denoising Approach Using Anatomical Prior Information Implemented With Attention Mechanism for Low-Dose CT Imaging on Clinical Patient Data From Multiple Anatomical Sites (**JBHI**) [[paper](https://ieeexplore.ieee.org/abstract/document/9362125)]
+- <a name="DCTR"></a>**[DCTR]** Dynamic CT Reconstruction From Limited Views With Implicit Neural Representations (**ICCV 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/html/Reed_Dynamic_CT_Reconstruction_From_Limited_Views_With_Implicit_Neural_Representations_ICCV_2021_paper.html)]
 
 
 
