@@ -17,6 +17,7 @@ Papers are coming. If you have any problems, suggestions or improvements, please
 - Extreme Few-view CT Reconstruction using Deep Inference [[paper](https://arxiv.org/pdf/1910.05375.pdf)]
 - Statistical Image Reconstruction Using Mixed Poisson-Gaussian Noise Model for X-Ray CT [[paper](https://arxiv.org/pdf/1801.09533.pdf)]
 - 2-Step Sparse-View CT Reconstruction with a Domain-Specific Perceptual Network [[paper](https://arxiv.org/pdf/2012.04743.pdf)]
+- Data-Driven Filter Design in FBP: Transforming CT Reconstruction with Trainable Fourier Series [[paper](https://arxiv.org/pdf/2401.16039.pdf)]
 
 
 ### 2023
