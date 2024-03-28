@@ -5,6 +5,7 @@ Papers are coming. If you have any problems, suggestions or improvements, please
 ## Papers
 
 ### arXiv papers
+- EAGLE: An Edge-Aware Gradient Localization Enhanced Loss for CT Image Reconstruction [[paper](https://arxiv.org/pdf/2403.10695.pdf)] [[Code](https://github.com/sypsyp97/Eagle_Loss)]
 - Stage-by-stage Wavelet Optimization Refinement Diffusion Model for Sparse-View CT Reconstruction [[paper](https://www.researchgate.net/publication/373518824_Stage-by-stage_Wavelet_Optimization_Refinement_Diffusion_Model_for_Sparse-View_CT_Reconstruction)] [[Code](https://github.com/yqx7150/SWORD)]
 - Generative Modeling in Sinogram Domain for Sparse-view CT Reconstruction [[paper](https://arxiv.org/ftp/arxiv/papers/2211/2211.13926.pdf)]
 - CoCoDiff: A Contextual Conditional Diffusion Model for Low-dose CT Image Denoising [[paper](https://www.researchgate.net/profile/Hongming-Shan-2/publication/364550369_CoCoDiff_a_contextual_conditional_diffusion_model_for_low-dose_CT_image_denoising/links/6363d9b4431b1f5300689d48/CoCoDiff-a-contextual-conditional-diffusion-model-for-low-dose-CT-image-denoising.pdf)]
@@ -26,6 +27,7 @@ Papers are coming. If you have any problems, suggestions or improvements, please
 - <a name="DADN"></a>**[DADN]** Domain-adaptive denoising network for low-dose CT via noise estimation and transfer learning (**Medical physics**) [[paper](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15952)]
 - <a name="SPQI"></a>**[SPQI]** Structure-preserving quality improvement of cone beam CT images using contrastive learning (**Computers in Biology and Medicine**) [[paper](https://www.sciencedirect.com/science/article/pii/S0010482523002688)]
 - <a name="3DIP"></a>**[3DIP]** Solving 3D Inverse Problems Using Pre-Trained 2D Diffusion Models (**CVPR 2023**) [[paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chung_Solving_3D_Inverse_Problems_Using_Pre-Trained_2D_Diffusion_Models_CVPR_2023_paper.html)]
+- <a name="3DIP"></a>**[GGLF]** Gradient-based geometry learning for fan-beam CT reconstruction (**Physics in Medicine & Biology**) [[paper](https://iopscience.iop.org/article/10.1088/1361-6560/acf90e/meta)]
 
 ### 2022
 - <a name="GMM-unNet"></a>**[GMM-unNet]** Noise Characteristics Modeled Unsupervised Network for Robust CT Image Reconstruction (**TMI**) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9852485)]
@@ -117,6 +119,7 @@ Papers are coming. If you have any problems, suggestions or improvements, please
 - <a name="WavResNet"></a>**[WavResNet]** Deep Convolutional Framelet Denosing for Low-Dose CT via Wavelet Residual Network (**Medical Imaging**) [[paper](https://arxiv.org/pdf/1707.09938.pdf)]
 - <a name="CTNet"></a>**[CTNet]** Lose The Views: Limited Angle CT Reconstruction via Implicit Sinogram Completion (**CVPR**) [[paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Anirudh_Lose_the_Views_CVPR_2018_paper.pdf)]
 - <a name="AUTOMAP"></a>**[AUTOMAP]** Image reconstruction by domain-transform manifold learning (**Nature**) [[paper](https://www.nature.com/articles/nature25988)]
+- <a name="AUTOMAP"></a>**[DLCT]** Deep Learning Computed Tomography: Learning Projection-Domain Weights From Image Domain in Limited Angle Problems (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/8355700)]
 
 
 
