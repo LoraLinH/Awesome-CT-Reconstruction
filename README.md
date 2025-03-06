@@ -21,6 +21,9 @@ Papers are coming. If you have any problems, suggestions or improvements, please
 - Data-Driven Filter Design in FBP: Transforming CT Reconstruction with Trainable Fourier Series [[paper](https://arxiv.org/pdf/2401.16039.pdf)]
 
 
+### 2024
+- <a name="GB-HMC"></a>**[GB-HMC]** A Gradient-Based Approach to Fast and Accurate Head Motion Compensation in Cone-Beam CT (**TMI**) [[paper](https://ieeexplore.ieee.org/abstract/document/10705329)] [[Code](https://github.com/mareikethies/geometry_gradients_CT)]
+
 ### 2023
 - <a name="PINER"></a>**[PINER]** PINER: Prior-informed Implicit Neural Representation Learning for Test-time Adaptation in Sparse-view CT Reconstruction (**WACV**) [[paper](https://openaccess.thecvf.com/content/WACV2023/papers/Song_PINER_Prior-Informed_Implicit_Neural_Representation_Learning_for_Test-Time_Adaptation_in_WACV_2023_paper.pdf)] [[Code](https://github.com/efzero/PINER)]
 - <a name="IRDS"></a>**[IRDS]** Iterative reconstruction of low-dose CT based on differential sparse (**Biomedical Signal Processing and Control**) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1746809422006589)]
